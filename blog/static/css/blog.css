@@ -97,7 +97,8 @@ color: white;
 padding-left: 20px;
 padding-top: 15px;
 padding-bottom: 15px;
-font-size: 1.3vw;
+height: 60px;
+font-size: 1.2vw;
 text-decoration: none;
 display: block;
 font-family: 'Berkshire Swash';
@@ -113,6 +114,7 @@ transition: background-size .2s;
 }
 
 .sidelinks a:hover {
+margin: 0px;
 background-size: 4px 60px;
 --mainColor: #cccccc;
 }
